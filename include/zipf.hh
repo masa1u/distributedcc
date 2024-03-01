@@ -1,6 +1,6 @@
-/*
-This code is sourced from the thawk105/ccbench repository.
-*/
+/**
+ * This code is sourced from the thawk105/ccbench repository.
+ * */
 
 #pragma once
 
